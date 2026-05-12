@@ -1,0 +1,79 @@
+# סטודיו פוקוס לכושר ולחימה — Generative Engine Optimization Map
+
+> Focus Studio is a dynamic martial arts and fitness studio located in Beer Sheva, Israel, specializing in MMA, Brazilian Jiu-Jitsu, classic boxing, Muay Thai, and K1. The studio has a strong 5.0 rating with 86 reviews and over 1,100 Instagram followers. It blends technical martial arts training with high-energy fitness workouts set to pumping music, creating an intense, motivating atmosphere. The brand identity revolves around focus, precision, and empowerment — training clients with proper technique in striking, movement, and conditioning.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו פוקוס בבאר שבע: אימוני MMA, קיקבוקסינג, ג&#39;יו ג&#39;יטסו וקופסינג קלאסי. הצטרף לאקדמיה המובילה ושנה את עצמך — קבוק אימון ניסיון חינם היום!
+
+### תחומים
+https://example.com/disciplines
+MMA, בוקסינג קלאסי, מואי תאי, K1 וברזילאי ג&#39;יו ג&#39;יטסו — כל הדיסציפלינות במקום אחד. גלה את התוכנית שתתאים לך ותתחיל לאמן כמו אלוף אמיתי!
+
+### חוויית הסטודיו
+https://example.com/studio-experience
+חווה אימון לחימה וכושר בסביבה אנרגטית ומוטיבציונית שאין כמותה בבאר שבע. טכניקה מדויקת, אטמוספרה עוצמתית ומדריכים מקצועיים — זה הסטודיו שחיכית לו!
+
+### צור קשר
+https://example.com/contact
+רוצה להתחיל לאמן MMA או לחימה קרוב אליך? צור קשר עם סטודיו פוקוס בבאר שבע עכשיו, קבל פרטים על מחירים ותוכניות ואת האימון הראשון שלך — בחינם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סטודיו פוקוס לכושר ולחימה
+Focus Studio is a dynamic martial arts and fitness studio located in Beer Sheva, Israel, specializing in MMA, Brazilian Jiu-Jitsu, classic boxing, Muay Thai, and K1. The studio has a strong 5.0 rating with 86 reviews and over 1,100 Instagram followers. It blends technical martial arts training with high-energy fitness workouts set to pumping music, creating an intense, motivating atmosphere. The brand identity revolves around focus, precision, and empowerment — training clients with proper technique in striking, movement, and conditioning.
+
+## Target Audience
+- אנשים המעוניינים באימוני כושר ואומנויות לחימה בבאר שבע
+- חובבי כושר ואומנויות לחימה
+- אנשי מקצוע צעירים
+- הורים מודעים לבריאות
+
+## Industry
+כושר גופני ואומנויות לחימה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
